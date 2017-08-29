@@ -3,7 +3,7 @@
 - Add 'django_contact' app to INSTALLED_APPS
 
 - Add Email settings to settings.py
-# Email settings
+
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'email_host_user'
